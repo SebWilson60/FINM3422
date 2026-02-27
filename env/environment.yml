@@ -1,0 +1,17 @@
+
+name: finm3422
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - notebook
+  - numpy
+  - pandas
+  - matplotlib
+  - plotly
+  - statsmodels
+  - scipy
+  - pip
+  - pip:
+      - yfinance

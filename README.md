@@ -33,3 +33,5 @@ cd finm3422
 ```
 
 Student: Sebastian Wilson successfully cloned the repo.
+
+“This is my Lecture 6 demo update.”
